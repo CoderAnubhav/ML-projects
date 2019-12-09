@@ -1,2 +1,2 @@
 # ML-projects
-It  contains my intialdata science and ML projects
+It  contains my intial data science and ML projects
